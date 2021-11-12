@@ -1,3 +1,5 @@
+<?php
+?>
 <html>
     <head>
         <title>Data of SpielfoxLP-Cloud</title>
